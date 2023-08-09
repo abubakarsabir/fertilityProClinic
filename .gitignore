@@ -1,0 +1,22 @@
+# Cypress
+cypress/screenshots/
+cypress/videos/
+cypress/fixtures/
+cypress/logs/
+cypress/support/screenshots
+
+# Node modules and package lock files
+node_modules/
+package-lock.json
+yarn.lock
+
+# IDE and editor files
+*.log
+*.swp
+*.swo
+*.idea/
+.vscode/
+
+# OS generated files
+.DS_Store
+Thumbs.db
